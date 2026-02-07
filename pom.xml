@@ -31,15 +31,15 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/ac4y-auto/java-ac4y-base-for-json-and-xml</url>
+            <url>https://maven.pkg.github.com/ac4y-auto/java-ac4y-base4jsonandxml</url>
         </repository>
     </distributionManagement>
 
     <dependencies>
         <dependency>
-            <groupId>ac4y</groupId>
+            <groupId>ac4y.base</groupId>
             <artifactId>ac4y-class</artifactId>
-            <version>1.0.20260206.1</version>
+            <version>2018.0325.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>ac4y</groupId>
